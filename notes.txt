@@ -1,0 +1,49 @@
+Ram Babu work
+
+2 feb work
+
+
+FOR Resume changes
+fix mobile number format
+
+add websites github links
+
+windows you linux which you use
+
+Put GPA for resume remove address
+
+no need to add full address of education universities
+
+remove testbug form summary and skills
+
+ACE Diploma
+AEC
+
+
+
+7040
+
+A. Convert to binary (8 bits)
+
+
+
+Word Document Important Points
+
+1. First use word app.
+2. Use different types of Title for Heading.
+3. Add table of contents and update it.
+4. Add paragraph below each different type title
+5. Add footnote (insert footnote) after every paragraph and add details of where
+   from this specific paragraph like from google
+6. Select References for bibelography click on manage resources at the end of the document add resources
+   Also can able to change style for it
+
+Excel
+
+Format cell data types
+currency
+alignment
+Add filter sort and (filter option)
+
+Formula function =sum(
+
